@@ -1,5 +1,7 @@
 # EDA_Practica1
 
+Por Diego Arenas Suárez.
+
 ## Ejercicio 1
 Un hola mundo simple.
 
